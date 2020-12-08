@@ -2,7 +2,7 @@ Instructions for downloading & running application
 
 To install you may clone the github repository with the following command:
 
-
+git clone https://github.com/CSchnelle/Final_656.git
 
 Or download all files in a zip folder by clicking on the green button at the top right corner of the repository: 
 
